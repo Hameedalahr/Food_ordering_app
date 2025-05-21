@@ -12,17 +12,12 @@ A modern, dynamic Food Delivery Application built using **React** and **Parcel**
 - [🛠 Tech Stack](#-tech-stack)
 - [📡 API Integration](#-api-integration)
 - [🧪 Testing](#-testing)
-- [📦 Setup & Installation](#-setup--installation)
-- [📁 Folder Structure](#-folder-structure)
-- [🤝 Contribution](#-contribution)
-- [📄 License](#-license)
-- [📧 Contact](#-contact)
 
 ---
 
 ## 🚀 Live Demo
 
-> Coming Soon!
+https://foooddeliveryy.netlify.app/
 
 Deployed version will be hosted soon using platforms like Netlify or Vercel.
 
@@ -32,7 +27,7 @@ Deployed version will be hosted soon using platforms like Netlify or Vercel.
 
 | Home Page | Restaurant Menu | Cart Page |
 |----------|------------------|-----------|
-| ![Home](./screenshots/home.png) | ![Menu](./screenshots/menu.png) | ![Cart](./screenshots/cart.png) |
+| ![Home](https://github.com/Hameedalahr/Food_ordering_app/blob/main/Restaurant%20Homepage.png?raw=true) | ![Menu](https://github.com/Hameedalahr/Food_ordering_app/blob/main/Restaurant%20Menu.png?raw=true) | ![Cart](https://github.com/Hameedalahr/Food_ordering_app/blob/main/Restaurant%20Cart.png?raw=true) |
 
 ---
 
